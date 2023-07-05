@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "29B6A3529BA33D35958A675967939451",
+  "keywordClasses": [
+    {
+      "name": "my.testobject.TestObjectHelpers",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

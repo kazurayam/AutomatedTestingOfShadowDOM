@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "D871AFAD1A1CBEA621E4FB4B502C0D49",
+  "keywordClasses": [
+    {
+      "name": "my.testobject.TestObjectFactory",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

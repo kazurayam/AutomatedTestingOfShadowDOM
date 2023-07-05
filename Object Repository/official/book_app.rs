@@ -12,6 +12,7 @@
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
+
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
@@ -19,5 +20,5 @@
       <type>Main</type>
       <value>BOOKS</value>
       <webElementGuid>704f0ba3-5bb8-4ecb-941d-4c76b11eb1da</webElementGuid>
-   </webElementProperties>
+   </webElementProerties>
 </WebElementEntity>
