@@ -35,7 +35,7 @@ TestObject input = makeTOforElementInsideShadowDOM(book_app, "#input")
 WebUI.verifyElementPresent(input, 1)
 
 // type a text into the search bar
-WebUI.setText(input, 'hello World')
+WebUI.setText(input, 'Fairwell to arms')
 
 //Delay 5s to view the result
 WebUI.delay(5)

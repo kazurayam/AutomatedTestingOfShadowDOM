@@ -7,36 +7,33 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id = 'input']</value>
+         <value>//*[@id = 'input' and @ref_element = 'Object Repository/official/book_app' and @ref_element_is_shadow_root = 'true']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
-
-    <webElementProperties>
+   <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a492fa1f-7e8e-4c4c-911e-a7d4c6d8cebb</webElementGuid>
+      <webElementGuid>1192bb1c-173b-4087-adca-5d27c8952390</webElementGuid>
    </webElementProperties>
-
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/official/book_app</value>
-      <webElementGuid>d119ad26-7de6-4e1d-8377-03557573677b</webElementGuid>
+      <webElementGuid>de9d84b6-93dc-4c81-8fd0-188e1a8b2799</webElementGuid>
    </webElementProperties>
-
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element_is_shadow_root</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>43faabdb-ec28-4d6b-bc02-be7e8af77241</webElementGuid>
+      <webElementGuid>824d055d-1803-47c8-bc70-7b76d32e7b72</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
